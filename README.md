@@ -6,6 +6,7 @@ Gosto muito de programação, tecnologia e design!
 
 - Atualmente estou aprendendo Java, Python, JavaScript e PHP.
 - Experiência inicial em HTML, CSS, C++ e Banco de Dados.
+- Inglês intermediário.
 
 <!--
 
