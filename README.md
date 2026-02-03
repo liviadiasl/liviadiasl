@@ -5,7 +5,7 @@ Eu sou a Lívia, estudante de Sistemas de Informação pela Unisinos e Técnica 
 Gosto muito de programação, tecnologia e design!
 
 - Atualmente estou aprendendo Java, Python, JavaScript e PHP.
-- Experiência em HTML, CSS, C++ e Banco de Dados.
+- Experiência inicial em HTML, CSS, C++ e Banco de Dados.
 
 <!--
 
