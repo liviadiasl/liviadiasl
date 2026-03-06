@@ -4,7 +4,7 @@ Eu sou a Lívia, estudante de Sistemas de Informação pela Unisinos e Técnica 
 
 Gosto muito de programação, tecnologia e design!
 
-- Atualmente estou aprendendo Java, Python, JavaScript, PHP, TypeScript, Angular e Ionic.
+- Atualmente estou aprendendo Java, Python, JavaScript, PHP, TypeScript e Angular.
 - Experiência inicial em HTML, CSS, C++ e Banco de Dados.
 - Inglês intermediário.
 
